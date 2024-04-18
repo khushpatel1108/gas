@@ -13,15 +13,15 @@ Online Gas Booking Application
 
 <code>pip install -r requirements.txt</code>
 
-<h2>Installing</h2>
+
 <pre>open terminal and type</pre>
 <code>git clone https://github.com/MahmudulHassan5809/auction-site-python-django.git</code><br><br>
 
-<h2>To migrate the database open terminal in project directory and type</h2>
+
 <code>python manage.py makemigrations</code><br>
 <code>python manage.py migrate</code>
 
-<h2>Static files collection</h2>
+
 <pre>open terminal and type</pre>
 <code>python manage.py collectstatic</code>
 
@@ -35,13 +35,6 @@ Online Gas Booking Application
 <p>Then go to http://127.0.0.1:8000 in your browser</p>
 
 
-<h2>Author</h2>
-<blockquote>
-  Mahmudul Hassan<br>
-  Email: mahmudul.hassan240@gmail.com
-</blockquote>
 
 
-<div align="center">
-    <h3>========Thank You !!!=========</h3>
-</div>
+
